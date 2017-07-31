@@ -76,7 +76,6 @@ export default {
         return {
             bookdata: [],
             loading: true
-            
         }
     },
     mounted() {
