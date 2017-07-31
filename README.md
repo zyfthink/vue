@@ -17,3 +17,5 @@ npm run build
 flex-add
  [demo](https://zyfthink.github.io/vue/)
 
+demo地址
+<a href="https://zyfthink.github.io/vue/">demo地址</a>
