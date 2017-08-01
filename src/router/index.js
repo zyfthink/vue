@@ -13,7 +13,7 @@ Router.prototype.goBack = function() {
 
 Vue.use(Router)
 const router = new Router({
-    mode: 'history',
+
     scrollBehavior: () => ({ y: 0 }),
     routes: [{
         path: '/',
